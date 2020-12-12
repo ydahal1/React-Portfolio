@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.8129fca1.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.24c7dc58.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.24c7dc58.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.8c137062.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.8c137062.js.map",
+    "static/css/2.b25fdef8.chunk.css": "/React-Portfolio/static/css/2.b25fdef8.chunk.css",
+    "static/js/2.e99c9e84.chunk.js": "/React-Portfolio/static/js/2.e99c9e84.chunk.js",
+    "static/js/2.e99c9e84.chunk.js.map": "/React-Portfolio/static/js/2.e99c9e84.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.b25fdef8.chunk.css.map": "/React-Portfolio/static/css/2.b25fdef8.chunk.css.map",
+    "static/css/main.8129fca1.chunk.css.map": "/React-Portfolio/static/css/main.8129fca1.chunk.css.map",
+    "static/js/2.e99c9e84.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.e99c9e84.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/React-Portfolio/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c137062.js",
+    "static/css/2.b25fdef8.chunk.css",
+    "static/js/2.e99c9e84.chunk.js",
+    "static/css/main.8129fca1.chunk.css",
+    "static/js/main.24c7dc58.chunk.js"
+  ]
+}
